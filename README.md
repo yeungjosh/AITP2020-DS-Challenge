@@ -1,9 +1,6 @@
 Welcome to the 2019 Data Science Challenge!
 ===========================================
 
-For this competition you will clone this repository and complete as many of the stages
-of the challenge as possible in the eight hours available.
-
 In a nut shell...
 
 1. Fork this repository.
@@ -21,5 +18,5 @@ Getting Started
 ---------------
 
 Navigate to this repository's [Wiki](https://github.rcac.purdue.edu/glentner/AITP2019-DS-Challenge/wiki)
-documentation to get started with the challenge. There you will see more details on the competition's 
-stages, criteria, and resources available to you.
+documentation to get started with the challenge. Details on the competition's 
+stages, criteria, and the computational resources available for use during the competition.
