@@ -7,10 +7,6 @@ In a nut shell...
 2. Open a _pull request_ from your fork to the _submission_ branch.
 3. As you complete tasks, _commit_ your results.
 
-When you _commit_ a change to a branch that you have already initiated a _pull request_
-from it will automatically be reflected in the pull request. At the end of the eight hours,
-only the commits that where pushed _prior_ to the deadline will be considered.
-
 
 <br>
 
