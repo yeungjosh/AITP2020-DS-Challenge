@@ -16,6 +16,7 @@ only the commits that where pushed _prior_ to the deadline will be considered.
 
 
 <br>
+
 Getting Started
 ---------------
 
