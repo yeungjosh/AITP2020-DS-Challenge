@@ -20,6 +20,6 @@ only the commits that where pushed _prior_ to the deadline will be considered.
 Getting Started
 ---------------
 
-Navigate to this repository's _Wiki_ documentation to get started with the challenge. There
-you will see more details on the competition's stages, criteria, and resources available to
-you.
+Navigate to this repository's [Wiki](https://github.rcac.purdue.edu/glentner/AITP2019-DS-Challenge/wiki)
+documentation to get started with the challenge. There you will see more details on the competition's 
+stages, criteria, and resources available to you.
