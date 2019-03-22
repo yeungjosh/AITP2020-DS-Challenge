@@ -1,7 +1,7 @@
 Welcome to the 2019 Data Science Challenge!
 ===========================================
 
-In a nut shell...
+_In a nut shell..._
 
 1. Fork this repository.
 2. Open a _pull request_ from your fork to the _submission_ branch.
