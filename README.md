@@ -17,5 +17,5 @@ Navigate to this repository's
 [Wiki](https://github.rcac.purdue.edu/glentner/AITP2019-DS-Challenge/wiki)
 documentation to get started with the challenge. There you'll find details on
 the specifics of the challenge, the dataset, available resources, scoring, how
-to submit your work, toos and technology, final presentations, and supplimental
+to submit your work, tools and technology, final presentations, and supplemental
 information.
