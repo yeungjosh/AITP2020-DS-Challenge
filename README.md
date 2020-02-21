@@ -1,4 +1,4 @@
-Welcome to the 2019 Data Science Challenge!
+Welcome to the 2020 Data Science Challenge!
 ===========================================
 
 _In a nut shell..._
@@ -14,7 +14,7 @@ Getting Started
 ---------------
 
 Navigate to this repository's
-[Wiki](https://github.com/glentner/AITP2019-DS-Challenge/wiki)
+[Wiki](https://github.com/glentner/AITP2020-DS-Challenge/wiki)
 documentation to get started with the challenge. There you'll find details on
 the specifics of the challenge, the dataset, available resources, scoring, how
 to submit your work, tools and technology, final presentations, and supplemental
